@@ -1,7 +1,7 @@
 /* Fig4-1_FunFor.c
 Muestra de la Funcion for
 Para Compilar # gcc Fig4-1_FunFor.c -o Nombre_ejecutable */
-#include
+#include <stdio.h>
 
 int main () {
 
